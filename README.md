@@ -37,8 +37,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anjarnegara/anjarnegara/output/pacman-contribution-graph.svg">
 </picture>
 
+<p>
 <img src="https://raw.githubusercontent.com/anjarnegara/anjarnegara/output/snake.svg" alt="Snake animation" />
-
+</p>
 ###
 
 ###
