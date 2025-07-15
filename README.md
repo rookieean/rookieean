@@ -9,10 +9,11 @@
 - ⚡ Fun fact **always on Antartika mode**
 
 <h3>About Me</h3>
-Studies Computer Science at <a href="https://unan.ac.id/">University An Nuur</a>
+🏫 Studies Computer Science at <a href="https://unan.ac.id/">University An Nuur</a>
 
-A CS rookie who loves to learn
-Hobbies: reading, biology, and watch a movie
+😊 A CS rookie who loves to learn
+
+🧾 Hobbies: reading, biology, and watch a movie
 
 
 <p align="left">
