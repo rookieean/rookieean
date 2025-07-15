@@ -12,6 +12,7 @@
 🏫 Studies Computer Science at <a href="https://unan.ac.id/">University An Nuur</a>
 
 😊 A CS rookie who loves to learn
+
 🧾 Hobbies: reading, biology, and watch a movie
 
 
