@@ -6,15 +6,15 @@
 
 - 🌱 I’m currently learning **Front end, UI UX design, web dev, etc**
 
-- 📫 How to reach me **septaranja@gmail.com**
-
-- ⚡ Fun fact **always on Antartika mode**
-
 - 🏫 Studies Computer Science at <a href="https://unan.ac.id/">University An Nuur</a>
 
+- 📫 How to reach me **septaranja@gmail.com**
+  
+- 🧾 Hobbies: reading, biology, and watch a movie
+  
 - 😊 A CS rookie who loves to learn
 
-- 🧾 Hobbies: reading, biology, and watch a movie
+
 
 
 <p align="left">
