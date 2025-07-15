@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Front end, UI UX design, web dev, etc**
 
-- 🏫 Studies Computer Science at <a href="https://unan.ac.id/">University An Nuur</a>
+- 🏫 Studies Computer Science at <a href="https://unan.ac.id/" alt="_blank">University An Nuur</a>
 
 - 📫 How to reach me **septaranja@gmail.com**
   
