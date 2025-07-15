@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Front end and UI UX **
+- 🌱 I’m currently learning **Front end, UI UX design, web dev, etc**
 
 - 📫 How to reach me **septaranja@gmail.com**
 
