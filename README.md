@@ -39,6 +39,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/anjarnegara/anjarnegara/output/snake.svg" alt="Snake animation" />
-
-###
