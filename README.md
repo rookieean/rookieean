@@ -23,7 +23,7 @@
 <h4 align="left">Skill Technique</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,vscode,git,figma,boostrap,tailwind=" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,vscode,git,figma,github,tailwind,=" />
   </a>
 </p>
 
