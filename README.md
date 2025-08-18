@@ -29,7 +29,7 @@
 
 
 
-<h4>Pickman Mode!</h4>
+<h4>Pickman lead u to my journey</h4>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anjarnegara/anjarnegara/output/pacman-contribution-graph-dark.svg">
