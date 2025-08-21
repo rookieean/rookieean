@@ -4,11 +4,7 @@
 
 <h4>About Me</h4>
 
-- 🌱 I’m currently learning **Front end, UI UX design, web dev, etc**
-
-- 🏫 Studies Computer Science at <a href="https://unan.ac.id/" alt="_blank">University An Nuur</a>
-
-- 📫 How to reach me **septaranja@gmail.com**
+- 🌱 I’m currently learning **UI UX and Front end**
   
 - 🧾 Hobbies: reading, biology, and watch a movie
   
@@ -29,7 +25,6 @@
 
 
 
-<h4>Pickman lead u to my journey</h4>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anjarnegara/anjarnegara/output/pacman-contribution-graph-dark.svg">
