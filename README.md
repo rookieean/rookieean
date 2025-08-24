@@ -2,7 +2,10 @@
 
 <h2>Hi... I'm rookie 👋</h2>
 <p> I like learning design because it's fun and colorful 😊 
-<br>Creating a program also makes me curious 🧐 I started learning Python but ended up getting stuck 🥴 and now I'm starting to like it, yay...!!! 😆 (that's because I'm starting to understand it little by little 🥲)</p>
+<br>Creating a program also makes me curious 🧐
+<br>I started learning Python but ended up getting stuck 🥴 
+<br>and now I'm starting to like it, yay...!!! 😆
+<br>(that's because I'm starting to understand it little by little 🥲)</p>
 
 <p>Oh, and I also love watching anime and Korean dramas 🍿  
 <br>
