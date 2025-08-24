@@ -1,21 +1,31 @@
 ![Header](img/rookie.png)
 
-<h3>Hi... I'm a rookie</h3>
-<p> I like learning design because it's fun and colorful 😊 Creating a program also makes me curious 🧐 I started learning Python but ended up getting stuck 🥴 and now I'm starting to like it, yay...!!! 😆 (that's because I'm starting to understand it little by little 🥲)</p>
+====
+
+<h2>Hi... I'm a rookie 👋</h2>
+
+-----------------
+<p> I like learning design because it's fun and colorful 😊 
+<br>Creating a program also makes me curious 🧐 I started learning Python but ended up getting stuck 🥴 and now I'm starting to like it, yay...!!! 😆 
+<br>(that's because I'm starting to understand it little by little 🥲)</p>
 
 <p>Oh, and I also love watching anime and Korean dramas 🍿  
+<br>
 My favorite anime are Attack on Titan, One Piece, Demon Slayer, and Ghibli  
+<br>
 My favorite dramas are Nine Puzzles, The Glory, Someone, and D.P  
+<br>
 My favorite movies... (I can't possibly list them all, can I? 🤔)</p>
 
 
+-----------
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,tailwind,vuejs,angular,vscode,figma=" />
   </a>
 </p>
 
-
+-----------
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anjarnegara/anjarnegara/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anjarnegara/anjarnegara/output/pacman-contribution-graph.svg">
