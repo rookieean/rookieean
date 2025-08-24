@@ -1,7 +1,7 @@
 <!--![Header](img/rookie.png)-->
 
 <h2>Hi... I'm rookie 👋</h2>
-<p> I like learning design because it's fun and colorful 😊 Creating a program also makes me curious 🧐 I started learning Python but ended up getting stuck 🥴 and now I'm starting to like it, yay...!!! 😆 (that's because I'm starting to understand it little by little 🥲)</p>
+<h3> I like learning design because it's fun and colorful 😊 Creating a program also makes me curious 🧐 I started learning Python but ended up getting stuck 🥴 and now I'm starting to like it, yay...!!! 😆 (that's because I'm starting to understand it little by little 🥲)</h3>
 
 <p>My favorite movies, anime and k-dramas... (I can't possibly list them all, can I? 🤔)</p>
 
