@@ -1,28 +1,18 @@
-![Header](img/github-header-image.png)
+![Header](img/rookie.png)
 
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+Hi... I'm a rookie, I like learning design because it's fun and colorful 😊 Creating a program also makes me curious 🧐 I started learning Python but ended up getting stuck 🥴 and now I'm starting to like it, yay...!!! 😆 (that's because I'm starting to understand it little by little 🥲)
 
-<h4>About Me</h4>
-
-- 🌱 I’m currently learning **UI UX and Front end**
-  
-- 🧾 Hobbies: reading, biology, and watch a movie
-  
-- 😊 A CS rookie who loves to learn
-
-
+Oh, and I also love watching anime and Korean dramas 🍿  
+My favorite anime are Attack on Titan, One Piece, Demon Slayer, and Ghibli  
+My favorite dramas are Nine Puzzles, The Glory, Someone, and D.P  
+My favorite movies... (I can't possibly list them all, can I? 🤔)
 
 
 <p align="left">
-</p>
-
-<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,vscode,git,figma,github,tailwind,=" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,tailwind,vuejs,angular,vscode,figma=" />
   </a>
 </p>
-
-
 
 
 <picture>
