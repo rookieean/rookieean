@@ -9,8 +9,8 @@
 <br> (that's because I'm starting to understand it little by little 🥲)</p>
 
 ## More...
-<p>My favorite movies, anime and k-dramas... 
-<br> (I can't possibly list them all, can I? 🤔)</p>
+<p>My favorite movies, animes and k-dramas: Demon Slayer, Nine Puzzles, Attack on Titan, Beliver 2, Knives Out...
+<br> (Wait... I can't possibly list them all, can I? 🤔)</p>
 </div>
 
 
@@ -34,8 +34,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rookieean&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" width="400" alt="streak graph"  />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rookieean&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" width="350" alt="languages graph"  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rookieean&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" width="280" alt="languages graph"  />
 </div>
 
 ###
